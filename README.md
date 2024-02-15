@@ -9,13 +9,13 @@ data analysis and AI. 🤖 </h3>
 
 <div align="center">
  
-🎓 I’m currently pursuing Master's Degree in Information Technology from UTS, majoring in Data Analytics.
+🎓 I’m currently pursuing Master's Degree in Information Technology from UTS, majoring in Data Analytics. 🎓
  
-🌱 I’m currently learning Cloud Services, and Data Visualisation tools like Tableau!
+🌱 I’m currently learning Cloud Services, and Data Visualisation tools like Tableau! 🌱
 
-⚡ My favourite programming language is Python!
+⚡ My favourite programming language is Python! ⚡
 
-💬 Connect with me on Linkedin! :)
+💬 Connect with me on Linkedin! :) 💬
 
  </div>
  
