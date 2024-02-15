@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">I am deeply passionate about emerging technologies and have a keen interest in
-data analysis and AI. 🤖 </h3>
+data analysis and AI. 🤖🤖🤖🤖🤖🤖 </h3>
 
 <br/>
 
