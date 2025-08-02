@@ -3,13 +3,13 @@
 </h1>
 
 <h3 align="center">I am deeply passionate about emerging technologies and have a keen interest in
-data analysis and AI. 🤖🤖🤖 </h3>
+data analytics and AI. 🤖🤖🤖 </h3>
 
 <br/>
 
 <div align="center">
  
-🎓 I’m currently pursuing Master's Degree in Information Technology from UTS, majoring in Data Analytics. 🎓
+🎓 Recent Graduate - Master's Degree in Information Technology from UTS, majoring in Data Analytics. 🎓
  
 ⚡ My favourite programming language is Python! ⚡
 
