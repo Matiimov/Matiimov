@@ -9,7 +9,7 @@ data analytics and AI. 🤖🤖🤖 </h3>
 
 <div align="center">
  
-🎓 Recent Graduate - Master's Degree in Information Technology from UTS, majoring in Data Analytics. 🎓
+🎓 Master's Degree in Information Technology from UTS, majoring in Data Analytics. 🎓
  
 ⚡ My favourite programming language is Python! ⚡
 
