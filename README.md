@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+on+my+github!+👋;+I'm+Mateusz+Wichtowski!;" />
 </h1>
 
-<h3 align="center">I am deeply passionate about emerging technologies and have a keen interest in
-data analytics and AI. 🤖🤖🤖 </h3>
+<h3 align="center">Data Engineer | AI Engineer | Software Developer </h3>
 
 <br/>
 
