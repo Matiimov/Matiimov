@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Data Engineer | AI Engineer | Software Developer </h3>
-<div align="center"> I build data pipelines, AI solutions, and software systems that are reliable, efficient, and impactful. </div>
+<div align="center"> I build scalable data pipelines, AI solutions, and software systems that are robust, efficient, and designed to make a real impact. </div>
 
 <br/>
 
