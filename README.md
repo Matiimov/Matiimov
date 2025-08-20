@@ -3,21 +3,38 @@
 </h1>
 
 <h3 align="center">Data Engineer | AI Engineer | Software Developer </h3>
+<h4 align="center"> I build data pipelines, AI solutions, and software systems that are reliable, efficient, and impactful. </h4>
 
 <br/>
 
 <div align="center">
  
-🎓 Master's Degree in Information Technology from UTS, majoring in Data Analytics. 🎓
- 
-⚡ My favourite programming language is Python! ⚡
+🎓 Master’s in Information Technology (Data Analytics) — University of Technology Sydney, Graduated with Distinction
 
-💬 Connect with me on Linkedin! :) 💬
+🐍 Python is my go-to language, but I also work comfortably across modern data/AI stacks  
+
+🏆 Award Winner, UTS Tech Festival 2025 — Best Interface/Design  
 
  </div>
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/matiimov/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+
+ -----
+
+<h3 align="center">🫱🏻‍🫲🏾 Let’s Connect</h3>
+
+<div align="center">
+
+📍 Based in Melbourne, Australia  
+
+<br/>
+
+<a href="https://www.linkedin.com/in/matiimov/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:matiimov@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://matiimov.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
