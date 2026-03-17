@@ -2,8 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+on+my+github!+👋;+I'm+Mateusz+Wichtowski!;" />
 </h1>
 
-<h3 align="center">Data & AI Engineer | Software Developer </h3>
-<div align="center"> I design and implement scalable data pipelines, AI solutions, and software systems that are robust, efficient, and designed to make a real impact. </div>
+<h3 align="center">Customer Success Engineer </h3>
 
 <br/>
 
