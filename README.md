@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+on+my+github!+👋;+I'm+Mateusz+Wichtowski!;" />
 </h1>
 
-<h3 align="center">Customer Success Engineer </h3>
+<h3 align="center">Engineer </h3>
 
 <br/>
 
 <div align="center">
- 
-🎓 Master’s in Information Technology (Data Analytics) — University of Technology Sydney, Graduated with Distinction
 
-🐍 Python is my go-to language, but I also work comfortably across modern data/AI stacks  
+🐍 Python, SQL, and TypeScript, across data, back end, and front end
+
+🎓 Master’s in Information Technology (Data Analytics) — University of Technology Sydney, Graduated with Distinction
 
 🏆 Award Winner, UTS Tech Festival 2025 — Best Interface/Design  
 
